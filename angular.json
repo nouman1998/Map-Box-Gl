@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MapBox"
+    }
+  },
+  "defaultProject": "MapBox",
+  "cli": {
+    "analytics": false
+  }
 }
